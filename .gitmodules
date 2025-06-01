@@ -1,0 +1,12 @@
+[submodule "ModerAI-Web"]
+	path = ModerAI-Web
+	url = https://github.com/Ddiidev/ModerAI-Web
+[submodule "ModerAI-Web-v2"]
+	path = ModerAI-Web-v2
+	url = https://github.com/Ddiidev/ModerAI-Web-v2
+[submodule "ModerAIAPI"]
+	path = ModerAIAPI
+	url = https://github.com/Ddiidev/ModerAIAPI
+[submodule "ModerAICore"]
+	path = ModerAICore
+	url = https://github.com/Ddiidev/ModerAICore
